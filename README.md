@@ -1,6 +1,8 @@
 # TOBAMS GROUP AUTH REST API
 
-## This is a REST API for authentication
+## This is a REST API for authentication using nodejs, mongodb, postman for api testing and documentation.
+
+## Deployed API Link: https://tobams-api-naxm.onrender.com
 
 ## To run locally, follow this steps:
  ### run npm install
